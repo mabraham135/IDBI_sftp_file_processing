@@ -1,0 +1,5 @@
+com\davinta\configuration\pojo\SftpFileAutoProcessing.class
+META-INF\MANIFEST.MF
+com\davinta\configuration\pojo\LoanRepaymentBankFileDetails.class
+com\davinta\configuration\Application.class
+com\davinta\configuration\SftpFileProcessingController.class
